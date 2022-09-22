@@ -1,10 +1,10 @@
 {
-  "name": "@blowstack/ckeditor-nuxt",
-  "version": "0.6.0",
+  "name": "@fadtya/ckeditor-nuxt",
+  "version": "1.0.0",
   "private": false,
   "author": {
-    "name": "BlowStack",
-    "email": "piotr.golon@gmail.com"
+    "name": "fadtya",
+    "email": "farhanaditya134@gmail.com"
   },
   "keywords": [
     "ckeditor5 nuxt",
@@ -25,8 +25,8 @@
     "build-bundle": "vue-cli-service build --target lib --name ckeditorNuxt ./src/components/index.js"
   },
   "dependencies": {
-    "@blowstack/ckeditor5-full-free-build": "^27.0.1",
-    "@ckeditor/ckeditor5-vue2": "^1.0.5"
+    "@ckeditor/ckeditor5-vue2": "^3.0.1",
+    "@fadtya/ckeditor5-lamsolusi": "^0.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
