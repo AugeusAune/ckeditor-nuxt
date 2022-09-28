@@ -954,10 +954,10 @@
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-vue2/-/ckeditor5-vue2-3.0.1.tgz#302e5773b31f1455973806d5c6002dd1b3db70ee"
   integrity sha512-vS9ffP3rOFgM8oeG9XVFD+UtcYAhkgFDfBHjswJuCgUM0Iw8uqLlCiDPbs4PeJsend8GcmmtNeFdcQaSPkOtpw==
 
-"@fadtya/ckeditor5-lamsolusi@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@fadtya/ckeditor5-lamsolusi/-/ckeditor5-lamsolusi-0.0.2.tgz#43d6e2d8247ef4718b5e97fdd611fe7d50015d3b"
-  integrity sha512-wnm3ZrBTLgMnT3RTm6HVF0/n/ymAsJxLiDkl8Xy51SEOFm6cDo5ydR+d2b8f4lbExnJNB8NABfZwkphZx3j88Q==
+"@fadtya/ckeditor5-lamsolusi@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@fadtya/ckeditor5-lamsolusi/-/ckeditor5-lamsolusi-0.0.4.tgz#300619b36aaa85fcbb2a19ba137a4cdab69af54f"
+  integrity sha512-xSAplu8y9IFEItCtfBCEGBbgQdehfy/26ERvC2Gcb7i8M6rTVgzdTbmVDi6yQhPvbcfwVfzInWCag1Hhok5V6Q==
 
 "@hapi/address@2.x.x":
   version "2.1.4"

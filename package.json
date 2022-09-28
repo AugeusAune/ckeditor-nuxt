@@ -1,6 +1,6 @@
 {
   "name": "@fadtya/ckeditor-nuxt",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "private": false,
   "author": {
     "name": "fadtya",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-vue2": "^3.0.1",
-    "@fadtya/ckeditor5-lamsolusi": "^0.0.2"
+    "@fadtya/ckeditor5-lamsolusi": "^0.0.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",

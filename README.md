@@ -9,8 +9,8 @@ npm i nuxt
 
 ## Component integration
 ```
-yarn add @blowstack/ckeditor-nuxt
-npm install --save @blowstack/ckeditor-nuxt
+yarn add @fadtya/ckeditor-nuxt
+npm install --save @fadtya/ckeditor-nuxt
 ```
 
 ## List of included plugins
@@ -84,7 +84,7 @@ npm install --save @blowstack/ckeditor-nuxt
 <script>
 export default {
   components: {
-    'ckeditor-nuxt': () => { if (process.client) { return import('@blowstack/ckeditor-nuxt') } },
+    'ckeditor-nuxt': () => { if (process.client) { return import('@fadtya/ckeditor-nuxt') } },
   },
   data() {
     return {
